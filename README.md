@@ -8,7 +8,9 @@ For **DAY_026** of my daily code challenge series, I developed an **interactive 
 
 ### Inspiration from Modern Interactive Design
 
-This interactive media display effect was inspired by award-winning designs that use click-triggered animations to engage users, particularly the **SavoirFaire** site, which won **Site of the Day** on **Awwwards**. Inspired by their visually captivating approach, I aimed to create a similar experience where GIFs and images appear at the click position, giving users an interactive and dynamic visual experience.
+This interactive media display effect was inspired by award-winning designs that use click-triggered animations to engage users, particularly the **SavoirFaire** site, which won **Site of the Day** on **Awwwards**. Inspired by their visually captivating approach, I aimed to create a similar experience where GIFs and images appear at the click position, giving users an interactive and dynamic visual experience. 
+
+Check their site here: [SavoirFaire](https://www.savoirfaire.nyc/)
 
 ---
 
